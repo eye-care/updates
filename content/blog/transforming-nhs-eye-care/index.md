@@ -7,7 +7,7 @@ lastmod: 2021-03-12T09:03:21Z
 draft: false
 weight: 50
 images: ["retina-scan.jpg"]
-contributors: [firstname lastname]
+contributors: [Zuz Kopecka]
 ---
 
 {{< img src="retina-scan.jpg" alt="Transforming NHS eye care" caption="Photo: Lawrence Kitson. Taken with clinician’s agreement." class="wide" >}}
