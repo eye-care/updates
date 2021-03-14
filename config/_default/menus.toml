@@ -5,7 +5,7 @@
 
 [[main]]
   name = "About"
-  url = "/about/"
+  url = "/about/info/"
   weight = 20
 
 [[main]]
@@ -14,21 +14,23 @@
   weight = 30
 
 [[main]]
+  name = "Weeknotes"
+  url = "/weeknotes/"
+  weight = 40
+
+[[about]]
     name = "Weeknotes"
     url = "/weeknotes/"
     weight = 40
 
-[[about]]
-    name = "Prologue"
-    weight = 10
-    identifier = "prologue"
-    url = "/about/prologue/"
 
-[[about]]
-    name = "Help"
-    weight = 60
-    identifier = "help"
-    url = "/about/help/"
+
+# [[about]]
+#     name = "About"
+#     weight = 10
+#     identifier = "about"
+#     url = "/about/info/workstreams.md"
+
 
 
 # [[footer]]
