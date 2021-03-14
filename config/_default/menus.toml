@@ -18,17 +18,17 @@
     url = "/weeknotes/"
     weight = 40
 
-[[docs]]
+[[about]]
     name = "Prologue"
     weight = 10
     identifier = "prologue"
-    url = "/docs/prologue/"
+    url = "/about/prologue/"
 
-[[docs]]
+[[about]]
     name = "Help"
     weight = 60
     identifier = "help"
-    url = "/docs/help/"
+    url = "/about/help/"
 
 
 # [[footer]]
