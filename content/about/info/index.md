@@ -8,7 +8,7 @@ draft: false
 images: []
 menu:
   docs:
-    parent: ""
+    parent: "About"
 weight: 100
 toc: true
 ---
@@ -26,7 +26,7 @@ We currently have six workstreams. They are clinician-led, and work in a user-ce
 
 An enhanced system-level improvement support to aid local leaders in recovery and delivering change on the ground.
 
-Find out more [on the Pathway improvement and recovery page](about/info/recovery/)
+Find out more [on the Pathway improvement and recovery page]({{< ref "/about/recovery.md" >}})
 
 
 
@@ -41,7 +41,7 @@ the right clinical input needed to manage the patient.
 This begins with user-research, and designing systems and technology that can
 scale and adapt to new care offerings.
 
-Find out more [on the Digital ophthalmology hubs page](/about/info/hubs/)
+Find out more [on the Digital ophthalmology hubs page]({{< ref "/about/hubs.md" >}})
 
 
 ### Home care
@@ -51,6 +51,8 @@ conditions at home.
 
 This includes capabilities like home vision and symptom monitoring,
 patient-initiated follow-up models, well-structured patient information
+
+Find out more [on the Home care page]({{< ref "/about/home.md" >}})
 
 
 ### Workforce optimisation
@@ -64,6 +66,8 @@ competencies for different roles.
 * Workforce development to align with optimising talent, retention and improving wellbeing.
 * Understanding of regional variation, engaging with one or more regions.
 
+Find out more [on the Workforce optimisation page]({{< ref "/about/workforce.md" >}})
+
 
 ### Data and analytics
 
@@ -74,8 +78,10 @@ improve across the various elements of the Eye Care pathways.
 Developing a measurement framework to track progress of the different elements of
 the Eye Care pathway improvement work.
 
+Find out more [on the Data and analytics page]({{< ref "/about/data.md" >}})
 
-### Commercial
+
+### Commissioning
 
 Commissioning is a key enabler for the delivery of at least half of the 21/22
 priority deliverables for the programme.
@@ -84,3 +90,5 @@ We are:
 * Clarifying what is in and out of scope of this workstream, based on the
 priority deliverables.
 * Working up a plan with key milestones, resources and deliverables.
+
+Find out more [on the Commissioning page]({{< ref "/about/commissioning.md" >}})
