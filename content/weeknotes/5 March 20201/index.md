@@ -6,7 +6,7 @@ lastmod: 2021-03-12T11:42:32Z
 draft: false
 images: []
 contributors: [Iain O'Neil]
-toc: true 
+toc: true
 ---
 # Last week we:
 
