@@ -7,4 +7,4 @@ draft: false
 images: []
 ---
 
-This is a blog.
+Our public notebook.
