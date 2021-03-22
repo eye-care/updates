@@ -1,3 +1,5 @@
+resources/_gen
+
 # Logs
 logs
 *.log
