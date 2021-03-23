@@ -1,11 +1,6 @@
 [[main]]
-  name = "PROTOTYPE"
-  url = "/prototype/"
-  weight = 10
-
-[[main]]
   name = "About"
-  url = "/about/info/"
+  url = "/about/"
   weight = 20
 
 [[main]]
