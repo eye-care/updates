@@ -6,12 +6,12 @@
 [[main]]
   name = "Blog"
   url = "/blog/"
-  weight = 30
+  weight = 20
   
 [[main]]
   name = "Library"
   url = "/library/"
-  weight = 40
+  weight = 20
 
 
 
