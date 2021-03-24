@@ -1,10 +1,10 @@
 ---
 title: "8-12 March 2021"
 description: ""
-date: 2021-03-15T15:54:49Z
-lastmod: 2021-03-15T15:54:49Z
+date: 2021-03-16
 draft: false
 images: []
+tags: weeknotes
 contributors: [Iain O'Neil]
 toc: true
 

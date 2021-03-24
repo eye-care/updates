@@ -1,27 +1,12 @@
 [[main]]
-  name = "PROTOTYPE"
-  url = "/prototype/"
-  weight = 10
-
-[[main]]
   name = "About"
-  url = "/about/info/"
+  url = "/about/"
   weight = 20
 
 [[main]]
   name = "Blog"
   url = "/blog/"
   weight = 30
-
-[[main]]
-  name = "Weeknotes"
-  url = "/weeknotes/"
-  weight = 40
-
-[[about]]
-    name = "Weeknotes"
-    url = "/weeknotes/"
-    weight = 40
 
 
 
