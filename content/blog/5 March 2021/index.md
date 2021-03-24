@@ -1,8 +1,7 @@
 ---
 title: "1-5 March 2021"
 description: "overall weeknote for the week of 1-5 March 2021"
-date: 2021-03-12T11:42:32Z
-lastmod: 2021-03-12T11:42:32Z
+date: 2021-03-05
 draft: false
 images: []
 contributors: [Iain O'Neil]

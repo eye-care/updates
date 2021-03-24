@@ -2,8 +2,7 @@
 title: "Transforming NHS eye care"
 description: "Introducing our work."
 lead: "Eyes matter. You don't have to look far, or for very long, to appreciate that for yourself. "
-date: 2021-03-12T09:03:21Z
-lastmod: 2021-03-12T09:03:21Z
+date: 2021-03-12
 draft: false
 weight: 50
 images: ["retina-scan.jpg"]
