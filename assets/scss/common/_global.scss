@@ -50,10 +50,16 @@ h6,
   /* font-size: calc(1.375rem + 1.5vw); */
   font-size: calc(1.875rem + 1.5vw);
 }
-
+a:link,
+a:visited{
+  color:#0a2bc8;
+  text-decoration:underline;
+}
 a:hover,
 a:focus {
   text-decoration: underline;
+  background-color: #f4e998;
+  color:#051974;
 }
 
 a.btn:hover,
