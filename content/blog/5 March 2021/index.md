@@ -4,6 +4,7 @@ description: "overall weeknote for the week of 1-5 March 2021"
 date: 2021-03-05
 draft: false
 images: []
+tags: weeknotes
 contributors: [Iain O'Neil]
 toc: true
 ---

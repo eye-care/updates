@@ -5,6 +5,7 @@ lead: "Eyes matter. You don't have to look far, or for very long, to appreciate 
 date: 2021-03-12
 draft: false
 weight: 50
+tags: article
 images: ["retina-scan.jpg"]
 contributors: [Zuz Kopecka]
 ---

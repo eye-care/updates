@@ -4,6 +4,7 @@ description: ""
 date: 2021-03-16
 draft: false
 images: []
+tags: weeknotes
 contributors: [Iain O'Neil]
 toc: true
 
