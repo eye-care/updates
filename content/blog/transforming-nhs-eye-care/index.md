@@ -36,7 +36,7 @@ We think it would make much more efficient use of time, especially that of eye c
 
 ## A new way of working
 
-In recent weeks, we've been assembling a multidisciplinary team to get started. As well as bringing together many different skills - clinical, design, user research, technology and others - it also brings together a lot of organisations. There are people from NHSx, NHSE/I, NHS Digital and Moorfields Eye Hospital on the team. That’s important. This is transformation for the whole NHS, not just one unit of it.  
+In recent weeks, we've been assembling a multidisciplinary team to get started. As well as bringing together many different skills - clinical, design, user research, technology and others - it also brings together a lot of organisations. There are people from NHSx, NHSE/I, NHS Digital, NHSBSA and Moorfields Eye Hospital on the team. That’s important. This is transformation for the whole NHS, not just one unit of it.  
 
 With that in mind, we are deliberately taking a different approach:
 
