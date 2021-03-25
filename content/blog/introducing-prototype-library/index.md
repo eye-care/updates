@@ -25,7 +25,7 @@ Right now, the library is just a few documents. The one that's likely to interes
 
 It's a plan for eye care recovery after Covid-19, which will lead to changes for long term sustainability of services. The pandemic has caused many delayed appointments. With ophthalmology services under massive pressure before Covid-19, and given the [NHS Long Term Plan](https://www.longtermplan.nhs.uk) recommendation to avoid unnecessary face-to-face outpatient appointments, this roadmap shows the way ahead.
 
-It sets out opportunities for transforming local eye care systems, and four principles for scaling up good practice. (There's lots more detailed information on the [Eye Care Hub]() and in the [Eye Care Digital Playbook](https://www.nhsx.nhs.uk/key-tools-and-info/digital-playbooks/eye-care-digital-playbook/).)
+It sets out opportunities for transforming local eye care systems, and four principles for scaling up good practice. (There's lots more detailed information on the [Eye Care Hub](https://future.nhs.uk/ECDC/view?objectId=22317360) (Future NHS login required) and in the [Eye Care Digital Playbook](https://www.nhsx.nhs.uk/key-tools-and-info/digital-playbooks/eye-care-digital-playbook/).)
 
 Alongside the roadmap, there are other documents that go into detail about pathway design and high flow services (including case studies).
 
