@@ -7,7 +7,7 @@ draft: false
 weight: 50
 tags: article
 images: ["retina-scan.jpg"]
-contributors: [Zuz Kopecka]
+contributors: [Iain O'Neil]
 ---
 
 {{< img src="retina-scan.jpg" alt="Transforming NHS eye care" caption="Photo: Lawrence Kitson. Taken with clinician’s agreement." class="wide" >}}

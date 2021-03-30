@@ -29,4 +29,4 @@ The work is currently divided into 6 workstreams:
 
 So far, most of our work is focused on digital ophthalmology hubs and home care, but other workstreams are ramping up quickly.
 
-We'll post frequent updates on the [blog](/blog/). Stay tuned.
+We'll post frequent updates and weeknotes on the [blog](/blog/). Stay tuned.
