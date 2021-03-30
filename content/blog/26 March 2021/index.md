@@ -9,14 +9,6 @@ contributors: [Iain O'Neil]
 
 ---
 
-This is the user-centred eye care team’s weeknote. We are now publishing the note on this proof of concept website - but I know some of you still prefer email... We’ll use weeknotes to update our sponsors and collaborators on what we’ve done, what we’re doing next, and where we are blocked. In time, we might publish these as blog posts, but for now we are sticking to email. Weeknotes won’t cover everything we’re up to, so if you have questions, please get in touch with me. 
-
-The team is working towards two long-term outcomes, agreed by our sponsors: 
-* A bold but grounded approach to transforming eye care, to radically reduce friction for people who receive and deliver the service.
-* In so doing create a replicable model for NHS transformation, via cross-disciplinary teams applying the culture, processes, operating models and technologies of the internet-era.
- 
-You can find our goals (including for the Digital Hubs and Home Care workstreams) at the bottom of this update. 
-
 ## A note from Iain O’Neil
 
 This week was challenging, but why wouldn’t it be? What we are doing - eye care transformation - is difficult, the system is complex, dispersed and huge. On top of that, we are using an approach that’s entirely new for many of us - the ‘digital methodology’ as we are calling it. And we are applying it on top of, or in place of, an existing and already in-flight approach - we are building the plane as it flies through the sky.
