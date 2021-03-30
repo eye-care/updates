@@ -14,6 +14,19 @@ Our teams are working towards two long-term outcomes, agreed by our sponsors:
 
 [This blog post](/blog/transforming-nhs-eye-care/) has a bit more background. 
 
-This website is an experimental prototype to explore working in the open. It documents our work, as we do it. Expect frequent small changes and updates. 
+This website is an experimental prototype to explore working in the open. It documents our work, as we do it. 
 
+## How the programme is designed
 
+The work is currently divided into 6 workstreams:
+
+1. Pathway improvement and recovery
+2. Digital ophthalmology hubs
+3. Home care
+4. Workforce optimisation
+5. Date and analytics
+6. Commissioning
+
+So far, most of our work is focused on digital ophthalmology hubs and home care, but other workstreams are ramping up quickly.
+
+We'll post frequent updates on the [blog](/blog/). Stay tuned.
