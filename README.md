@@ -1,6 +1,6 @@
 
 # NHS Eyes project
-This is a prototype site constructed by various folks to show how a team might work more in the open.
+This is a prototype site constructed by various [folks](https://github.com/eye-care/updates/graphs/contributors) to show how a team might work more in the open.
 
 ## Running this site
 Simply, this site is a Hugo site using the Doks templating system which is deployed to Netlify.
@@ -21,10 +21,10 @@ If you don't already have npm installed, follow these instructions first to down
 ```bash
 npm run start
 ```
-This will start the server on your local system, and give you a local URL you can reference to view the site, and any changes you make locally.
+This will start the server on your local system, and give you a local URL (most likely localhost:1313 but it may give you a different port if that one's already in use) you can open in your browser to view the site, and any changes you make locally.
 
 ## Project structure
-As this is using the Doks system, it follows the basic layouts defined in that project and you may find that documentation helpful, but for a basic orientation:
+As this is using the Doks system, it follows the basic layouts defined in that project and you may find that documentation helpful (see below), but for a basic orientation:
 * Templates for the major layouts can be found here: https://github.com/eye-care/updates/tree/main/layouts
 * Content that is displayed in those layouts is here: https://github.com/eye-care/updates/tree/main/content
 * You can adjust the navigation elements here: https://github.com/eye-care/updates/blob/main/config/_default/menus.toml
@@ -34,9 +34,9 @@ When a change is made to the site, and you have the project running locally (as 
 
 ## Deployment
 
-Whenever a change is made to this repo, or a pull request is made to it, a build is automatically triggered at Netlify and will update the site found at: https://eyecare-updates.netlify.app/ (or, if from a pull request, a "deployment preview" URL will be made available in the PR logs). No other steps are required to deploy the site. 
+Whenever a change is made to this repo a build is automatically triggered at Netlify and will update the site found at: https://eyecare-updates.netlify.app/  Similarly, if you make a pull request to this repo, Netlify will create a "[deployment preview](https://docs.netlify.com/site-deploys/overview/#branches-and-deploys)" where you can preview the changes made before merging the pull request. No other steps are required to deploy the site. 
 
-If you want to change the URL for the netlify site, change DNS records to point a different domain to the site, or otherwise make changes to the Netlify settings, speak to @techforevil who has the login credentials.  You can also create a new netlify account and deploy this same repository there, if needs be. 
+If you want to change the URL for the netlify site, change DNS records to point a different domain to the site, or otherwise make changes to the Netlify settings, speak to [@techforevil](https://github.com/techforevil) who has the login credentials.  You can also create a new netlify account and deploy this same repository there, if needs be. 
 
 ## Documentation
 
