@@ -1,7 +1,7 @@
 ---
 title: "A digital hub for eye care - the story so far"
 description: ""
-date: 2021-04-38
+date: 2021-04-28
 draft: false
 images: []
 tags: digital-hub
@@ -9,7 +9,7 @@ contributors: [Sarah Gaskell]
 
 ---
 
-{{< img-simple src="team-retro-miro.jpg" alt="Screenshot of team retro session on Miro" >}}
+{{< img src="team-retro-miro.jpg" alt="Screenshot of team retro session on Miro" caption="Doing a retro on a Miro board" >}}
 
 We've started work on designing what we call a "digital hub" for eye care. 
 
@@ -43,7 +43,7 @@ One patient might not sound very ambitious, but this is a learning exercise. If 
 
 The first task was to find a way to engage with the team at the North Central London (NCL) Integrated Care System. By week 7, we’d contacted them and started conversations. 
 
-{{< img-simple src="moorfields-hoxton.jpg" alt="Photo of the Moorfields Hoxton site" >}}
+{{< img src="moorfields-hoxton.jpg" alt="Photo of the Moorfields Hoxton site" caption="Visiting another Moorfields site in Hoxton" >}}
 
 ## Transformation is more than technology
 
