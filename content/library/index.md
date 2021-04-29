@@ -18,6 +18,7 @@ At the moment, all linked files are DRAFT.
 
 ## Pathway redesign
 
+* [Eye care planning implementation guidance 2021-22 Summary (Annexe)](Eye-Care-Planning-Implementation-Guidance-2021-22-Summary-Annexe.pdf) <mark>NEW</mark>
 * [NOTP eye care transformation service specification](file/pathway-redesign/NOTPEyeCareRestorationService(ECRS)ServiceSpecification-30th-October-2020.pdf
 )
 * [Covid-19 Cataract Pathway - sample protocol for primary care optometrists](file/pathway-redesign/Sample_COVID19_Cataract_Protocol_for_primary_care_optometrists.pdf)
