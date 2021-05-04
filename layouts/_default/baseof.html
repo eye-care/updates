@@ -14,7 +14,11 @@
   {{ end -}}
   <body class="{{ .Scratch.Get "class" }}">
     {{ partial "header/header.html" . }}
+    <div class="beta-warning">
+    <p>This website is a prototype and the content within it has not been verified as accurate and reliable.</p>
+  </div>
     <div class="wrap container" role="document">
+
       <div class="content">
         {{ block "main" . }}{{ end }}
       </div>
