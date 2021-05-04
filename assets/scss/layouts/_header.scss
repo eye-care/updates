@@ -266,3 +266,9 @@
 .navbar .menu-btn:checked ~ .menu-icon:not(.steps) .navicon::after {
   top: 0;
 }
+
+.beta-warning{
+  background-color:red;
+  display:block;
+  width:100%;
+}
