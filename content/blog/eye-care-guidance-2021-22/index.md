@@ -3,7 +3,7 @@
 title: "Eye care guidance for the coming year"
 description: "We've published an annexe document"
 lead: "A few weeks ago, the NHS published the Eye Care Planning Implementation Guidance 2021/2022 (Annexe) document."
-date: 2021-05-06
+date: 2021-05-05
 draft: false
 weight: 50
 tags: article
@@ -13,7 +13,7 @@ contributors: [Zoe Richmond]
 
 It's now also available on this website:
 
-<button>**[Download the document](library/file/Eye-Care-Planning-Implementation-Guidance-2021-22-Summary-Annexe.pdf)**</button>
+<button>**[Download the document](/library/file/pathway-redesign/Eye-Care-Planning-Implementation-Guidance-2021-22-Summary-Annexe.pdf)**</button>
 
 This provides commissioners, decision makers and those holding the pen on local planning returns with the right level of information relating to eyes, so that they can start planning for local eye care transformation. 
 
